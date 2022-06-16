@@ -1,0 +1,14 @@
+
+E
+java:S1604/"(Make this anonymous inner class a lambda(Áè‰8ïµ•±–0
+v	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†ÊàÈ8‡¶•±–0
+v
+java:S1450%"YRemove the "btnConvert" field and declare it as a local variable in the relevant methods.(©Ëáë8‹¶•±–0
+X
+java:S1874""6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ8‘¶•±–0
+]	java:S1257"<This block of commented-out lines of code should be removed.(íëªÆûÿÿÿÿ8š¶•±–0
+X
+java:S1874L"6Remove this use of "ProgressDialog"; it is deprecated.(øÃ÷øÿÿÿÿ8¶•±–0
+N
+java:S1874L",Remove this use of "show"; it is deprecated.(øÃ÷øÿÿÿÿ8Ÿ¶•±–0
+^	java:S125€"<This block of commented-out lines of code should be removed.(ğá úÿÿÿÿ8«¶•±–0
