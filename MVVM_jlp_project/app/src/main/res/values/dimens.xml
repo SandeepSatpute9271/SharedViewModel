@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="theme_corner_radius">5dp</dimen>
+    <dimen name="list_horizontal_margin">0dp</dimen>
+
+    <!-- SP adjusts according the users setting, DP is static -->
+    <dimen name="textsize_xlarge">28dp</dimen>
+    <dimen name="textsize_large">24dp</dimen>
+    <dimen name="textsize_medium_large">20dp</dimen>
+    <dimen name="textsize_medium">18sp</dimen>
+    <dimen name="textsize_medium_small">15sp</dimen>
+    <dimen name="textsize_medium_small_static">15dp</dimen>
+    <dimen name="textsize_small">14sp</dimen>
+    <dimen name="textsize_xsmall">10sp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- Text Size -->
+    <dimen name="text_size_tiny">6sp</dimen>
+    <dimen name="text_size_xtiny">8sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">13sp</dimen>     <!-- Normal Text -->
+    <dimen name="text_size_x_normal">16sp</dimen>
+    <dimen name="text_size_xxnormal">18sp</dimen>
+    <dimen name="text_size_header">20sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="text_size_x_large">26sp</dimen>     <!-- header style Text size -->
+    <dimen name="text_size_xxlarge">28sp</dimen>
+    <dimen name="text_size_huge">30sp</dimen>
+    <dimen name="text_width_height">170dp</dimen>
+    <dimen name="text_size_height">30dp</dimen>
+
+    <dimen name="material_text_button">14sp</dimen>
+    <dimen name="material_text_menu">14sp</dimen>
+    <dimen name="material_text_caption">12sp</dimen>
+    <dimen name="material_text_body1">14sp</dimen>
+    <dimen name="material_text_body2">13sp</dimen>
+    <dimen name="material_text_subhead">16sp</dimen>
+    <dimen name="material_text_title">20sp</dimen>
+    <dimen name="material_text_headline">24sp</dimen>
+    <dimen name="material_text_display1">34sp</dimen>
+    <dimen name="material_text_display2">45sp</dimen>
+    <dimen name="material_text_display3">56sp</dimen>
+    <dimen name="material_text_display4">112sp</dimen>
+
+
+    <!-- Margin & padding -->
+    <dimen name="margin_padding_tiny">4dp</dimen>
+    <dimen name="margin_padding_xtiny">6dp</dimen>
+    <dimen name="margin_padding_small">9dp</dimen>
+    <dimen name="margin_padding_x_small">12dp</dimen>
+    <dimen name="margin_padding_normal">15dp</dimen>     <!-- Top margin for views used in login and change password -->
+    <dimen name="margin_padding_xnormal">20dp</dimen>
+    <dimen name="margin_padding_xxnormal">25dp</dimen>
+    <dimen name="margin_padding_large">30dp</dimen>
+    <dimen name="margin_padding_xlarge">40dp</dimen>
+    <dimen name="margin_padding_xxlarge">50dp</dimen>
+    <dimen name="margin_large">70dp</dimen>
+    <dimen name="margin_x_large">170dp</dimen>
+    <dimen name="spacing">9dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="dividerHeight">8dp</dimen>
+    <dimen name="icon_width_height">30dp</dimen>
+
+    <dimen name="icon_small">18dp</dimen>
+    <dimen name="icon_medium">24dp</dimen>
+    <dimen name="icon_large">32dp</dimen>
+    <dimen name="icon_xl">48dp</dimen>
+    <dimen name="icon_xxl">64dp</dimen>
+    <dimen name="icon_xxxl">108dp</dimen>
+
+    <dimen name="header_height">150dp</dimen>
+
+    <dimen name="edit_text_padding">15dp</dimen>
+    <dimen name="edit_text_border_size">2dp</dimen>
+    <dimen name="edit_padding_left_right">10dp</dimen>
+    <dimen name="edit_padding_top_bottom">15dp</dimen>
+
+    <dimen name="edit_padding_top_bo">0.98</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+</resources>
